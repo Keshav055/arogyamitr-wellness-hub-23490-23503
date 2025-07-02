@@ -1,1 +1,3 @@
-# arogyamitr-wellness-hub-23490-23503
+# Project Repository
+
+This is the initial README file for the project.
